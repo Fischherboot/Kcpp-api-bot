@@ -1,3 +1,11 @@
+## DO NOT USE
+
+## use original here:  https://github.com/Ambruk-chan/DiscordBot
+
+
+
+
+
 # Aktiva AI - A Self Hosted AI Discord Bot
 
 ## FEATURES!!!
